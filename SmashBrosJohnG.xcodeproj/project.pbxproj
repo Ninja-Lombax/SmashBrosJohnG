@@ -13,6 +13,7 @@
 		564EB1282527C73700B19A18 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 564EB1262527C73700B19A18 /* Main.storyboard */; };
 		564EB12A2527C73A00B19A18 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 564EB1292527C73A00B19A18 /* Assets.xcassets */; };
 		564EB12D2527C73A00B19A18 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 564EB12B2527C73A00B19A18 /* LaunchScreen.storyboard */; };
+		564EB1352527D30C00B19A18 /* 640px-Super_Smash_Bros._Ultimate_logo.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 564EB1342527D30C00B19A18 /* 640px-Super_Smash_Bros._Ultimate_logo.svg.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		564EB1292527C73A00B19A18 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		564EB12C2527C73A00B19A18 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		564EB12E2527C73A00B19A18 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		564EB1342527D30C00B19A18 /* 640px-Super_Smash_Bros._Ultimate_logo.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "640px-Super_Smash_Bros._Ultimate_logo.svg.png"; path = "../../../../Downloads/640px-Super_Smash_Bros._Ultimate_logo.svg.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				564EB1242527C73700B19A18 /* ViewController.swift */,
 				564EB1262527C73700B19A18 /* Main.storyboard */,
 				564EB1292527C73A00B19A18 /* Assets.xcassets */,
+				564EB1342527D30C00B19A18 /* 640px-Super_Smash_Bros._Ultimate_logo.svg.png */,
 				564EB12B2527C73A00B19A18 /* LaunchScreen.storyboard */,
 				564EB12E2527C73A00B19A18 /* Info.plist */,
 			);
@@ -127,6 +130,7 @@
 			files = (
 				564EB12D2527C73A00B19A18 /* LaunchScreen.storyboard in Resources */,
 				564EB12A2527C73A00B19A18 /* Assets.xcassets in Resources */,
+				564EB1352527D30C00B19A18 /* 640px-Super_Smash_Bros._Ultimate_logo.svg.png in Resources */,
 				564EB1282527C73700B19A18 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
